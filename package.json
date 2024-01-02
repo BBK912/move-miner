@@ -1,0 +1,12 @@
+{
+  "name": "move-miner",
+  "version": "1.0.0",
+  "description": "1： npm i\r 2:  npm run mine",
+  "main": "suimove.js",
+  "scripts": {
+    "mine": "node suimove.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
